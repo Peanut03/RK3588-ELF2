@@ -1,0 +1,7 @@
+成功切换工作目录到: /userdata/sherpa/sherpa-onnx-v1.11.5-linux-aarch64-shared-cpu
+使用 LD_LIBRARY_PATH: /userdata/sherpa/sherpa-onnx-v1.11.5-linux-aarch64-shared-cpu/lib
+准备执行命令: sudo /usr/bin/taskset 0xc0 /userdata/sherpa/sherpa-onnx-v1.11.5-linux-aarch64-shared-cpu/bin/sense-voice-simulate-streaming-alsa-cxx-api plughw:1,0
+Current sample rate: 16000
+Recording started!
+Use recording device: plughw:1,0
+语音服务进程已退出，返回码: -15

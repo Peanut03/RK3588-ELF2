@@ -1,0 +1,54 @@
+2025-06-24 20:49:32,959 - INFO - 🎧 开始监控语音输入...
+2025-06-24 20:49:32,959 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:49:32,960 - INFO - 📂 监控文件: /tmp/voice_recognition_output.txt
+2025-06-24 20:49:32,969 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:50:33,025 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:50:33,041 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:51:33,106 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:51:33,121 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b093f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:52:33,188 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:52:33,203 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b09b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:53:33,270 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:53:33,284 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:54:33,348 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:54:33,363 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b089d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:55:33,429 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:55:33,443 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b083d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:56:33,512 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:56:33,527 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:57:33,595 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:57:33,615 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a9e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:58:33,682 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:58:33,688 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83aabaf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 20:59:33,748 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 20:59:33,754 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a020>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:00:33,814 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:00:33,829 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:01:33,895 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:01:33,909 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08fa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:02:33,976 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:02:33,990 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b098a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:03:34,054 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:03:34,069 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b097e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:04:34,136 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:04:34,153 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83aabf70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:05:32,299 - INFO - 从文件中读取到新行: '2025-06-24T21:05:31.890973|wei wei wei\n'
+2025-06-24 21:05:32,300 - INFO - 🎤 检测到新语音命令: 'wei wei wei\n'
+2025-06-24 21:05:32,301 - INFO - 正在查询视觉模型, 问题: wei wei wei\n
+2025-06-24 21:05:32,316 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:05:36,221 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:05:36,235 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b082b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:06:36,302 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:06:36,317 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a080>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:07:36,384 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:07:36,390 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a7d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:08:36,451 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:08:36,457 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a890>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:09:36,519 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:09:36,525 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83aabca0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:10:36,590 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:10:36,604 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b0a3b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:11:36,671 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:11:36,685 - ERROR - 查询视觉模型失败: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f83b08490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-06-24 21:12:36,753 - INFO - 正在查询视觉模型, 问题: 请详细描述一下这张图片
+2025-06-24 21:12:50,628 - ERROR - 查询视觉模型失败: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
