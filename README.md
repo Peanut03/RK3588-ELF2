@@ -22,9 +22,15 @@ https://github.com/user-attachments/assets/fd6e50e6-29c9-4945-8c78-cf0549621c1c
 - **智能语音交互**：集成 Silero VAD 实时语音识别，支持用户语音提问；Matcha-TTS 将分析结果转为语音通过蓝牙播放。
 - **本地隐私保护**：所有模型部署在 RK3588 平台上，无需联网即可实现完整功能。
 - **训练总结功能**：自动记录训练数据，训练结束后生成包含动作评分、改进建议的总结报告。
-![image](https://github.com/user-attachments/assets/2df15787-45db-4188-b63b-e7b83c56f2f6)
+![image](https://github.com/user-attachments/assets/0ff88fae-7908-4d7b-95eb-af0e84cff9a3)
+
 - **可视化界面**：7 英寸触摸屏显示实时画面、分析结果和建议内容。
-![image](https://github.com/user-attachments/assets/e3c5ddf5-9310-4e4e-8e37-53ebbc415ffd)
+
+
+
+    ![image](https://github.com/user-attachments/assets/e3c5ddf5-9310-4e4e-8e37-53ebbc415ffd)
+
+
 
 ### 应用领域
 
