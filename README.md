@@ -25,6 +25,7 @@ https://github.com/user-attachments/assets/fd6e50e6-29c9-4945-8c78-cf0549621c1c
 ![image](https://github.com/user-attachments/assets/2df15787-45db-4188-b63b-e7b83c56f2f6)
 - **可视化界面**：7 英寸触摸屏显示实时画面、分析结果和建议内容。
 ![image](https://github.com/user-attachments/assets/e3c5ddf5-9310-4e4e-8e37-53ebbc415ffd)
+
 ### 应用领域
 
 本系统适用于广泛的健身场景，包括家庭、健身房、健身工作室等。家庭用户可摆脱空间与时间限制，享受专业指导；健身房与工作室引入该系统，既能提升服务质量，又能减少教练人力成本。此外，系统也适用于健身爱好者、健身新手及康复训练人群，帮助健身爱好者突破训练瓶颈，辅助健身新手掌握正确动作，为康复训练人群提供安全、科学的训练指导，有效降低受伤风险。
