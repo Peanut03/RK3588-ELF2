@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/fd6e50e6-29c9-4945-8c78-cf0549621c1c
 - **智能语音交互**：集成 Silero VAD 实时语音识别，支持用户语音提问；Matcha-TTS 将分析结果转为语音通过蓝牙播放。
 - **本地隐私保护**：所有模型部署在 RK3588 平台上，无需联网即可实现完整功能。
 - **训练总结功能**：自动记录训练数据，训练结束后生成包含动作评分、改进建议的总结报告。
-  ![image](https://github.com/user-attachments/assets/2df15787-45db-4188-b63b-e7b83c56f2f6)
+![image](https://github.com/user-attachments/assets/2df15787-45db-4188-b63b-e7b83c56f2f6)
 - **可视化界面**：7 英寸触摸屏显示实时画面、分析结果和建议内容。
 ![image](https://github.com/user-attachments/assets/e3c5ddf5-9310-4e4e-8e37-53ebbc415ffd)
 ### 应用领域
@@ -106,6 +106,7 @@ https://github.com/user-attachments/assets/fd6e50e6-29c9-4945-8c78-cf0549621c1c
 
 ## 第三部分 完成情况及性能参数
 本团队成功开发了一套基于 RK3588 芯片的智能健身助手系统。系统具备高效的动作分析能力、流畅的语音交互体验和强大的本地隐私保护功能，能够有效帮助用户纠正健身动作，降低运动损伤风险，同时为用户提供个性化的健身建议和训练总结。所有功能均在本地完成，无需联网，确保用户数据安全。
+
 ![image](https://github.com/user-attachments/assets/2047814d-343d-4ed8-be91-1c8ce5b88355)
 ![image](https://github.com/user-attachments/assets/3e39ce88-a905-445f-ba3a-6a63808b7c05)
 ![image](https://github.com/user-attachments/assets/0f151e45-e1c6-4a6a-ae74-f3fbea19639a)
